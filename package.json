@@ -7,8 +7,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "ali-oss": "^6.1.1",
     "core-js": "^2.6.5",
     "element-ui": "^2.10.1",
+    "exif-js": "^2.3.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
   },
